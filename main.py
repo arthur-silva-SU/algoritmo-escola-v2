@@ -1,8 +1,11 @@
 import rpy2.robjects as ro
 from rpy2.robjects.vectors import StrVector
+import easygui
+
+caminho_dados = easygui.fileopenbox(default="/home/tuzin/Downloads/")
 
 # Define the paths
-caminho_dados = "/home/tuzin/Downloads/resultados_alunos_call.json"
+# caminho_dados = "/home/tuzin/Downloads/resultados_alunos_call.json"
 caminho_saida_finais = "/home/tuzin/Downloads/saidas_escola/dados_finais.csv"
 caminho_saida_parametros = "/home/tuzin/Downloads/saidas_escola/dados_parametros.csv"
 caminho_pacotes_r = "/home/tuzin/R/x86_64-pc-linux-gnu-library/4.3"
