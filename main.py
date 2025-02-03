@@ -1,25 +1,29 @@
-import rpy2.robjects as ro
-from rpy2.robjects.vectors import StrVector
+import os
 import easygui
+import rpy2.robjects as ro
 
-caminho_dados = easygui.fileopenbox(default="/home/tuzin/Downloads/")
+from pathlib import Path
+from dotenv import load_dotenv
+from rpy2.robjects.vectors import StrVector
 
-# Define the paths
-# caminho_dados = "/home/tuzin/Downloads/resultados_alunos_call.json"
-caminho_saida_finais = "/home/tuzin/Downloads/saidas_escola/dados_finais.csv"
-caminho_saida_parametros = "/home/tuzin/Downloads/saidas_escola/dados_parametros.csv"
-caminho_pacotes_r = "/home/tuzin/R/x86_64-pc-linux-gnu-library/4.3"
+BASE_DIR = Path(__file__).resolve().parent
 
-# Set R library path
+load_dotenv()
+
+caminho_dados = easygui.fileopenbox(default=str(os.getenv('DEFAULT_PATH')))
+caminho_saida_finais = f"{BASE_DIR}/dados_finais.csv"
+caminho_saida_parametros = f"{BASE_DIR}/dados_parametros.csv"
+caminho_pacotes_r = str(os.getenv('CAMINHO_PACOTES_R'))
+
+# Pegar o local onde estão instalados os pacotes R necessários para o funcionamento do programa
 ro.r('.libPaths')(StrVector([caminho_pacotes_r]))
 
-# Create R string variables
+# Jogar os parâmetros para dentro do código R
 ro.r.assign('caminho_dados', caminho_dados)
 ro.r.assign('caminho_saida_finais', caminho_saida_finais)
 ro.r.assign('caminho_saida_parametros', caminho_saida_parametros)
 
-
-# R code without string interpolation
+# Código R com as variáveis criadas em python nos seus devidos locais
 r_code = r'''
     # Load packages
     library(mirt)
@@ -103,5 +107,5 @@ r_code = r'''
     write.csv(dados_parametros, caminho_saida_parametros, row.names = FALSE)
 '''
 
-# Execute the R code
+# Executar o código R
 ro.r(r_code)
