@@ -2,18 +2,29 @@
 # Importa os módulos do rpy2 para interação com R
 import rpy2.robjects as ro
 
-ro.r('.libPaths("/home/tuzin/R/x86_64-pc-linux-gnu-library/4.3")')
 
 # Você pode executar o código R inteiro via uma string multilinha.
-# Observe que as aspas duplas e simples devem ser tratadas com cuidado.
+
+# Definindo os caminhos como variáveis Python
+caminho_dados = "/home/tuzin/Downloads/resultados_alunos_call.json"
+caminho_saida_finais = "/home/tuzin/Downloads/saidas_escola/dados_finais.csv"
+caminho_saida_parametros = "/home/tuzin/Downloads/saidas_escola/dados_parametros.csv"
+
+caminho_pacotes_r = "/home/tuzin/R/x86_64-pc-linux-gnu-library/4.3"
+comando_carrega_pacotes_r = r'.libPaths("{{caminho_pacotes_r}}")'.replace("{{caminho_pacotes_r}}", caminho_pacotes_r)
+
+# Adicionar local onde os pacotes do R estão instalados no sistema.
+ro.r(comando_carrega_pacotes_r)
+
+# Criando a string R como uma string bruta (r''' ... ''') sem interpolação direta
 code_r = r'''
-    # Carrega os pacotes (caso não estejam carregados, mas já fizemos isso via rpy2 também)
+    # Carrega os pacotes
     library(mirt)
     library(dplyr)
     library(jsonlite)
     
     # Lê os dados dos alunos do arquivo JSON
-    dados_alunos <- fromJSON("/home/tuzin/Downloads/resultados_alunos_call.json")
+    dados_alunos <- fromJSON("{{caminho_dados}}")
     
     # Armazena os nomes dos alunos
     nomes_alunos <- dados_alunos$aluno
@@ -26,10 +37,10 @@ code_r = r'''
     
     # Estima as habilidades (theta) dos alunos
     fscores_result <- fscores(modelo_tri, full.scores = TRUE)
-    if (is.list(fscores_result)) {
-      theta_estimado <- fscores_result$score
-    } else {
-      theta_estimado <- fscores_result
+    if (is.list(fscores_result)) { 
+      theta_estimado <- fscores_result$score 
+    } else { 
+      theta_estimado <- fscores_result 
     }
     
     # Calcula o total de acertos para cada aluno
@@ -96,8 +107,13 @@ code_r = r'''
     print(dados_parametros)
     
     # Salva os data frames em arquivos CSV
-    write.csv(dados_finais, "/home/tuzin/Downloads/saidas_escola/dados_finais.csv", row.names = FALSE)
-    write.csv(dados_parametros, "/home/tuzin/Downloads/saidas_escola/dados_parametros.csv", row.names = FALSE)
+    write.csv(dados_finais, "{{caminho_saida_finais}}", row.names = FALSE)
+    write.csv(dados_parametros, "{{caminho_saida_parametros}}", row.names = FALSE)
 '''
+
+# Substituir os placeholders "{{caminho_dados}}" pelos valores corretos
+code_r = code_r.replace("{{caminho_dados}}", caminho_dados)
+code_r = code_r.replace("{{caminho_saida_finais}}", caminho_saida_finais)
+code_r = code_r.replace("{{caminho_saida_parametros}}", caminho_saida_parametros)
 
 ro.r(code_r)
