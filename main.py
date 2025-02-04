@@ -1,5 +1,6 @@
 import os
 import easygui
+import pandas as pd
 from pathlib import Path
 
 os.environ['R_HOME'] = r'C:\Program Files\R\R-4.4.2'
@@ -102,3 +103,6 @@ r_code = r'''
 
 # Execute the R code
 ro.r(r_code)
+
+student_data = pd.read_csv(caminho_saida_finais)
+print(student_data)

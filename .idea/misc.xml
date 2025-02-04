@@ -3,8 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.10 (r_no_python)" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="ee7477f2-af8e-4503-946b-a163a909af81" />
-  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (algoritmo-escola-v2)" project-jdk-type="Python SDK" />
 </project>
