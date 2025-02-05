@@ -5,6 +5,8 @@ from pathlib import Path
 
 os.environ['R_HOME'] = r'C:\Program Files\R\R-4.4.2'
 import rpy2.robjects as ro
+# Definir a codificação para a do windows poder ler o código em R sem erros de codificação
+ro.r('Sys.setlocale("LC_ALL", "pt_BR.UTF-8")')
 
 
 def install_r_packages(packages):
@@ -46,8 +48,6 @@ ro.r.assign('caminho_saida_finais', caminho_saida_finais)
 ro.r.assign('caminho_saida_parametros', caminho_saida_parametros)
 ro.r('.libPaths')(ro.vectors.StrVector([caminho_pacotes_r]))
 
-# Definir a codificação para a do windows poder ler o código em R sem erros de codificação
-ro.r('Sys.setlocale("LC_ALL", "pt_BR.UTF-8")')
 
 # Código em R
 r_code = r'''
