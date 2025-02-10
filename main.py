@@ -116,9 +116,13 @@ print(student_data)
 total_students = student_data['Aluno'].count()
 print(f"{total_students} estudantes")
 # Colocação (prova objetiva)
-
+aluno_aleatorio = student_data.loc[0, 'Aluno']  # No local do 0, colocar a colocação que é desejada baseada no total de alunos.
+print(aluno_aleatorio)
 # Nota do Enem (prova objetiva)
+nota_aleatoria = student_data.loc[0, 'F1.1']  # No local do 0, colocar a colocação que é desejada baseada no total de alunos.
+print(nota_aleatoria)
 # Quantidade de acertos e erros, distribuídos por dificuldade
+
 # Faixa TRI do aluno
 # Concentração de alunos por Faixa TRI
 #============================PAINEL 02============================
