@@ -1,0 +1,452 @@
+[
+  {
+    "questao": 1,
+    "disciplina": "Biologia",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 2,
+    "disciplina": "Física",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 3,
+    "disciplina": "Química",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 4,
+    "disciplina": "Biologia",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 5,
+    "disciplina": "Física",
+    "respostaCorreta": "A"
+  },
+  {
+    "questao": 6,
+    "disciplina": "Química",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 7,
+    "disciplina": "Biologia",
+    "respostaCorreta": "A"
+  },
+  {
+    "questao": 8,
+    "disciplina": "Física",
+    "respostaCorreta": "C"
+  },
+  {
+    "questao": 9,
+    "disciplina": "Química",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 10,
+    "disciplina": "Química",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 11,
+    "disciplina": "Química",
+    "respostaCorreta": "A"
+  },
+  {
+    "questao": 12,
+    "disciplina": "Química",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 13,
+    "disciplina": "Biologia",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 14,
+    "disciplina": "Física",
+    "respostaCorreta": "A"
+  },
+  {
+    "questao": 15,
+    "disciplina": "Química",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 16,
+    "disciplina": "Biologia",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 17,
+    "disciplina": "Física",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 18,
+    "disciplina": "Química",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 19,
+    "disciplina": "Biologia",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 20,
+    "disciplina": "Física",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 21,
+    "disciplina": "Química",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 22,
+    "disciplina": "Física",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 23,
+    "disciplina": "Biologia",
+    "respostaCorreta": "C"
+  },
+  {
+    "questao": 24,
+    "disciplina": "Biologia",
+    "respostaCorreta": "A"
+  },
+  {
+    "questao": 25,
+    "disciplina": "Química",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 26,
+    "disciplina": "Química",
+    "respostaCorreta": "A"
+  },
+  {
+    "questao": 27,
+    "disciplina": "Biologia",
+    "respostaCorreta": "A"
+  },
+  {
+    "questao": 28,
+    "disciplina": "Física",
+    "respostaCorreta": "C"
+  },
+  {
+    "questao": 29,
+    "disciplina": "Química",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 30,
+    "disciplina": "Biologia",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 31,
+    "disciplina": "Física",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 32,
+    "disciplina": "Química",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 33,
+    "disciplina": "Biologia",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 34,
+    "disciplina": "Química",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 35,
+    "disciplina": "Física",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 36,
+    "disciplina": "Biologia",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 37,
+    "disciplina": "Biologia",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 38,
+    "disciplina": "Física",
+    "respostaCorreta": "A"
+  },
+  {
+    "questao": 39,
+    "disciplina": "Química",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 40,
+    "disciplina": "Física",
+    "respostaCorreta": "A"
+  },
+  {
+    "questao": 41,
+    "disciplina": "Biologia",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 42,
+    "disciplina": "Química",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 43,
+    "disciplina": "Física",
+    "respostaCorreta": "C"
+  },
+  {
+    "questao": 44,
+    "disciplina": "Biologia",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 45,
+    "disciplina": "Biologia",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 46,
+    "disciplina": "Matemática",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 47,
+    "disciplina": "Matemática",
+    "respostaCorreta": "C"
+  },
+  {
+    "questao": 48,
+    "disciplina": "Matemática",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 49,
+    "disciplina": "Matemática",
+    "respostaCorreta": "C"
+  },
+  {
+    "questao": 50,
+    "disciplina": "Matemática",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 51,
+    "disciplina": "Matemática",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 52,
+    "disciplina": "Matemática",
+    "respostaCorreta": "C"
+  },
+  {
+    "questao": 53,
+    "disciplina": "Matemática",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 54,
+    "disciplina": "Matemática",
+    "respostaCorreta": "C"
+  },
+  {
+    "questao": 55,
+    "disciplina": "Matemática",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 56,
+    "disciplina": "Matemática",
+    "respostaCorreta": "C"
+  },
+  {
+    "questao": 57,
+    "disciplina": "Matemática",
+    "respostaCorreta": "C"
+  },
+  {
+    "questao": 58,
+    "disciplina": "Matemática",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 59,
+    "disciplina": "Matemática",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 60,
+    "disciplina": "Matemática",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 61,
+    "disciplina": "Matemática",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 62,
+    "disciplina": "Matemática",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 63,
+    "disciplina": "Matemática",
+    "respostaCorreta": "A"
+  },
+  {
+    "questao": 64,
+    "disciplina": "Matemática",
+    "respostaCorreta": "C"
+  },
+  {
+    "questao": 65,
+    "disciplina": "Matemática",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 66,
+    "disciplina": "Matemática",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 67,
+    "disciplina": "Matemática",
+    "respostaCorreta": "C"
+  },
+  {
+    "questao": 68,
+    "disciplina": "Matemática",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 69,
+    "disciplina": "Matemática",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 70,
+    "disciplina": "Matemática",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 71,
+    "disciplina": "Matemática",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 72,
+    "disciplina": "Matemática",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 73,
+    "disciplina": "Matemática",
+    "respostaCorreta": "A"
+  },
+  {
+    "questao": 74,
+    "disciplina": "Matemática",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 75,
+    "disciplina": "Matemática",
+    "respostaCorreta": "C"
+  },
+  {
+    "questao": 76,
+    "disciplina": "Matemática",
+    "respostaCorreta": "A"
+  },
+  {
+    "questao": 77,
+    "disciplina": "Matemática",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 78,
+    "disciplina": "Matemática",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 79,
+    "disciplina": "Matemática",
+    "respostaCorreta": "A"
+  },
+  {
+    "questao": 80,
+    "disciplina": "Matemática",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 81,
+    "disciplina": "Matemática",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 82,
+    "disciplina": "Matemática",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 83,
+    "disciplina": "Matemática",
+    "respostaCorreta": "D"
+  },
+  {
+    "questao": 84,
+    "disciplina": "Matemática",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 85,
+    "disciplina": "Matemática",
+    "respostaCorreta": "E"
+  },
+  {
+    "questao": 86,
+    "disciplina": "Matemática",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 87,
+    "disciplina": "Matemática",
+    "respostaCorreta": "B"
+  },
+  {
+    "questao": 88,
+    "disciplina": "Matemática",
+    "respostaCorreta": "A"
+  },
+  {
+    "questao": 89,
+    "disciplina": "Matemática",
+    "respostaCorreta": "A"
+  },
+  {
+    "questao": 90,
+    "disciplina": "Matemática",
+    "respostaCorreta": "C"
+  }
+]

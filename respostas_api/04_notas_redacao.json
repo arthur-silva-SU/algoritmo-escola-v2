@@ -1,0 +1,1019 @@
+[
+  {
+    "aluno": "Aisha Silva Fernandes",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Alicia Tavares Petry",
+    "notaRedacao": 880,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Amanda Nicole Couto Arueira ",
+    "notaRedacao": 940,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Ana Júlia Machado Wagner",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Anna Carolinne Souto Vieira",
+    "notaRedacao": 920,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 200,
+    "compet5": 180
+  },
+  {
+    "aluno": "Arthur de Sousa Campos",
+    "notaRedacao": 920,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Beatriz Delgado de Freitas Camara da Silva",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Bernardo Cunha Coutinho",
+    "notaRedacao": 940,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Cauê Fernando R Martins",
+    "notaRedacao": 920,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Enzo Guiherme Silva de Oliveira ",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Evelyn Larissa Gouveia Machado",
+    "notaRedacao": 940,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Fernando Barbosa da Matta Filho",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Giordano Bruno S Souza",
+    "notaRedacao": 920,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 200
+  },
+  {
+    "aluno": "Giovana Celina Fonseca ",
+    "notaRedacao": 960,
+    "compet1": 200,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 200
+  },
+  {
+    "aluno": "Giovanna Caroline M Soares",
+    "notaRedacao": 940,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Guilherme de Araújo Limenzo Souza",
+    "notaRedacao": 940,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 200
+  },
+  {
+    "aluno": "Guilherme Emmanuel Fernandes de Queiroz",
+    "notaRedacao": 940,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 200
+  },
+  {
+    "aluno": "Hadassa Cardoso Ferreira da Costa ",
+    "notaRedacao": 0,
+    "compet1": 0,
+    "compet2": 0,
+    "compet3": 0,
+    "compet4": 0,
+    "compet5": 0
+  },
+  {
+    "aluno": "Henri Kalil Pinto Crisanto",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Herike Patrick Cordeiro da Silva",
+    "notaRedacao": 400,
+    "compet1": 100,
+    "compet2": 100,
+    "compet3": 100,
+    "compet4": 100,
+    "compet5": 0
+  },
+  {
+    "aluno": "Ilana Gabriela S da Hora",
+    "notaRedacao": 880,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Ingrid Pinheiro Almeida",
+    "notaRedacao": 960,
+    "compet1": 200,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Jéssica Lima Moura",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 160,
+    "compet4": 180,
+    "compet5": 200
+  },
+  {
+    "aluno": "João Victor de Azevedo Costa Correia ",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Julia Shelem ",
+    "notaRedacao": 880,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "Kleber Castro Queiroz",
+    "notaRedacao": 880,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "Livia Manuela Ferreira de Souza Silva",
+    "notaRedacao": 860,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 160,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Lorenna Marques Medeiros",
+    "notaRedacao": 0,
+    "compet1": 0,
+    "compet2": 0,
+    "compet3": 0,
+    "compet4": 0,
+    "compet5": 0
+  },
+  {
+    "aluno": "Maria Eduarda Cosme de M Silveira",
+    "notaRedacao": 900,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "Maria Luiza Pereira Freitas",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Mariana Marques Medeiros",
+    "notaRedacao": 880,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "Marilia Quezado Gurgel ",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Nicole Santos Vitoriano",
+    "notaRedacao": 900,
+    "compet1": 180,
+    "compet2": 180,
+    "compet3": 200,
+    "compet4": 160,
+    "compet5": 180
+  },
+  {
+    "aluno": "Paulo Henrique de S Roque",
+    "notaRedacao": 920,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Pedro Carlos Chaves Filho",
+    "notaRedacao": 880,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Pedro Felipe Rocha Torres",
+    "notaRedacao": 880,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 160,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Pedro Guilherme Bezerra Freire",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Tarcísio Cavalcante Filho",
+    "notaRedacao": 840,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 180,
+    "compet4": 160,
+    "compet5": 160
+  },
+  {
+    "aluno": "Thiago Silva Pinto",
+    "notaRedacao": 820,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 140,
+    "compet4": 160,
+    "compet5": 140
+  },
+  {
+    "aluno": "Yasmin Louyse Freitas Araujo",
+    "notaRedacao": 840,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 180,
+    "compet4": 160,
+    "compet5": 160
+  },
+  {
+    "aluno": "Daniel Augusto Moraes de Macedo",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 160,
+    "compet4": 180,
+    "compet5": 200
+  },
+  {
+    "aluno": "MARIA LETICIA DA SILVA AZEVEDO ",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "MARIA EDUARDA FERREIRA DE ALBUQUERQUE BARROS",
+    "notaRedacao": 940,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "ARTUR MOURA MOTA",
+    "notaRedacao": 940,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 200
+  },
+  {
+    "aluno": "DARAH EDUARDA MARTINS DE MORAIS BEZERRA",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "EMILLANE ALANDA PAIVA",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "GABRIEL DE SOUZA AZEVEDO",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Sthephanie Nassif Pinheiro",
+    "notaRedacao": 960,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 200,
+    "compet5": 200
+  },
+  {
+    "aluno": "Anne Cecília Maia da Silveira ",
+    "notaRedacao": 780,
+    "compet1": 180,
+    "compet2": 180,
+    "compet3": 140,
+    "compet4": 140,
+    "compet5": 140
+  },
+  {
+    "aluno": "Thais Regina Vilela",
+    "notaRedacao": 880,
+    "compet1": 180,
+    "compet2": 180,
+    "compet3": 160,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Osli Fernandes Pereira  de Oliveira ",
+    "notaRedacao": 940,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Matheus Medeiros Simão Barbosa ",
+    "notaRedacao": 900,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "Anajulia de S Azevedo ",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "Paulo Daniel Costa ",
+    "notaRedacao": 900,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "Julia Helena Mauad",
+    "notaRedacao": 840,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 180,
+    "compet4": 160,
+    "compet5": 160
+  },
+  {
+    "aluno": "Maria Eduarda Queiroga Palácio",
+    "notaRedacao": 880,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "Wigna Mendonça Costa Souza",
+    "notaRedacao": 820,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 180,
+    "compet4": 160,
+    "compet5": 140
+  },
+  {
+    "aluno": "Maria Clara Miranda de Melo",
+    "notaRedacao": 880,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 140
+  },
+  {
+    "aluno": "Izabelly Karoline Martins Araújo",
+    "notaRedacao": 880,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "Isaque Augusto Rosendo Costa",
+    "notaRedacao": 0,
+    "compet1": 0,
+    "compet2": 0,
+    "compet3": 0,
+    "compet4": 0,
+    "compet5": 0
+  },
+  {
+    "aluno": "Allan Gabriel Souza Nobre",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Nara Eugenia L D S de Sousa",
+    "notaRedacao": 860,
+    "compet1": 180,
+    "compet2": 180,
+    "compet3": 160,
+    "compet4": 160,
+    "compet5": 180
+  },
+  {
+    "aluno": "Luana Andrade F de Brito",
+    "notaRedacao": 880,
+    "compet1": 180,
+    "compet2": 180,
+    "compet3": 160,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Maira Trevensolli Gobbi",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Maria Victória Cruz Enéas",
+    "notaRedacao": 900,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 160,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "RAUL DANTAS TAVARES",
+    "notaRedacao": 860,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 160,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "ANTONIO FARIAS NETO",
+    "notaRedacao": 880,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "FELIPE DUARTE MUNIS",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "LEONOR GUEDES MARTINS",
+    "notaRedacao": 840,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 180,
+    "compet4": 160,
+    "compet5": 160
+  },
+  {
+    "aluno": "STEFANY CAMPOS",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "JAILMA VICTORIA",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "LEONARDO MARQUES TRINDADE",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "VICTOR RICARDO",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "RAFAELA RAIISA",
+    "notaRedacao": 900,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "KAIO HANDERSON",
+    "notaRedacao": 940,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "LARA BEATRIZ",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "ISADORA MAGALHÃES",
+    "notaRedacao": 880,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "DEBORA VICENTE DE CARVALHO",
+    "notaRedacao": 900,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 160,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "HELENA BIRGITTA",
+    "notaRedacao": 760,
+    "compet1": 160,
+    "compet2": 160,
+    "compet3": 160,
+    "compet4": 140,
+    "compet5": 140
+  },
+  {
+    "aluno": "VINICIUS FOGONI",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "JOÃO PEDRO RAMALHO",
+    "notaRedacao": 840,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 180,
+    "compet4": 160,
+    "compet5": 160
+  },
+  {
+    "aluno": "JENNIFER RAFAELA RODRIGUES MOURA",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "LEONDSON ALVES",
+    "notaRedacao": 840,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 160,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "IGOR SILVA MONTEIRO",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "VITOR CABRAL ATY",
+    "notaRedacao": 0,
+    "compet1": 0,
+    "compet2": 0,
+    "compet3": 0,
+    "compet4": 0,
+    "compet5": 0
+  },
+  {
+    "aluno": "MARIA CECILIA NASSIF",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "LUIZ GUILHERME AC DOS ANJOS",
+    "notaRedacao": 880,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 160,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "MANUELA SILVA",
+    "notaRedacao": 820,
+    "compet1": 180,
+    "compet2": 180,
+    "compet3": 160,
+    "compet4": 160,
+    "compet5": 140
+  },
+  {
+    "aluno": "Alana Kefyllin Gomes Sampaio",
+    "notaRedacao": 0,
+    "compet1": 0,
+    "compet2": 0,
+    "compet3": 0,
+    "compet4": 0,
+    "compet5": 0
+  },
+  {
+    "aluno": "Ana Leticia Leocádio da Silva",
+    "notaRedacao": 860,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "Antonio Eduardo Nascimento Gomes",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Breno de Medeiros e Souza Barbosa",
+    "notaRedacao": 840,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 160,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "Emily Lira Dos Santos Barbosa",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Fabiana Emilly Gois bay",
+    "notaRedacao": 500,
+    "compet1": 140,
+    "compet2": 160,
+    "compet3": 100,
+    "compet4": 100,
+    "compet5": 0
+  },
+  {
+    "aluno": "Fellipe Martins Galvão",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Fernando de Medeiros Gomes",
+    "notaRedacao": 800,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 160,
+    "compet4": 140,
+    "compet5": 160
+  },
+  {
+    "aluno": "Jamily Lima Sampaio da Silva",
+    "notaRedacao": 820,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 160,
+    "compet4": 160,
+    "compet5": 160
+  },
+  {
+    "aluno": "João Pedro Gomes Venâncio Melo",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "João Victor Marques Souza",
+    "notaRedacao": 860,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 160,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "João Victor dos Santos Silva ",
+    "notaRedacao": 940,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Luiza Jost ",
+    "notaRedacao": 880,
+    "compet1": 180,
+    "compet2": 180,
+    "compet3": 160,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Maria Fernanda de Lima Medeiros",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "Maria Beatriz Dutra Soares",
+    "notaRedacao": 940,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 200
+  },
+  {
+    "aluno": "Maria de Helena Silva do Nascimento",
+    "notaRedacao": 960,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 200,
+    "compet5": 180
+  },
+  {
+    "aluno": "Mariana Carolina Silva do Nascimento ",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 160,
+    "compet4": 180,
+    "compet5": 200
+  },
+  {
+    "aluno": "Maria Luiza de Oliveira Fernandes",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Matheus Henrique de Lima Souza ",
+    "notaRedacao": 920,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Milena Gabrielly Cavalcante de Souza ",
+    "notaRedacao": 940,
+    "compet1": 180,
+    "compet2": 200,
+    "compet3": 200,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Pedro Barreto Dantas ",
+    "notaRedacao": 880,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "Pedro Felipe Oliveira Medeiros ",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Pedro Henrique Bezerra de Oliveira ",
+    "notaRedacao": 860,
+    "compet1": 160,
+    "compet2": 180,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 160
+  },
+  {
+    "aluno": "Rayssa Tamires Batista Brito",
+    "notaRedacao": 900,
+    "compet1": 160,
+    "compet2": 200,
+    "compet3": 180,
+    "compet4": 180,
+    "compet5": 180
+  },
+  {
+    "aluno": "Renata Lopes de Araujo",
+    "notaRedacao": 700,
+    "compet1": 140,
+    "compet2": 120,
+    "compet3": 120,
+    "compet4": 160,
+    "compet5": 160
+  }
+]

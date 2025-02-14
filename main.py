@@ -105,34 +105,56 @@ caminho_saida_parametros = f"{BASE_DIR}/dados_parametros.csv"
 # ro.r(r_code)
 
 # Ordenar a tabela por notas
-student_data = pd.read_csv(caminho_saida_finais)
-student_data = student_data.sort_values(by=['F1.1'], ascending=False)
-student_data = student_data.reset_index(drop=True)
-print(student_data)
+questions_data = pd.read_csv(caminho_saida_parametros)
+students_data = pd.read_csv(caminho_saida_finais)
+students_data = students_data.sort_values(by=["F1.1"], ascending=False)
+students_data = students_data.reset_index(drop=True)
+print(students_data)
 
 # Definição dos indicadores por visualização por aluno
-#============================PAINEL 01============================
+# ============================PAINEL 01============================
 # total de participantes
-total_students = student_data['Aluno'].count()
+total_students = students_data["Aluno"].count()
 print(f"{total_students} estudantes")
 # Colocação (prova objetiva)
-aluno_aleatorio = student_data.loc[0, 'Aluno']  # No local do 0, colocar a colocação que é desejada baseada no total de alunos.
-print(aluno_aleatorio)
+current_student = students_data.loc[
+    0, "Aluno"
+]  # No local do 0, colocar a colocação que é desejada baseada no total de alunos.
+print(current_student)
 # Nota do Enem (prova objetiva)
-nota_aleatoria = student_data.loc[0, 'F1.1']  # No local do 0, colocar a colocação que é desejada baseada no total de alunos.
-print(nota_aleatoria)
+current_score = students_data.loc[
+    0, "F1.1"
+]  # No local do 0, colocar a colocação que é desejada baseada no total de alunos.
+print(current_score)
 # Quantidade de acertos e erros, distribuídos por dificuldade
 
+current_student_correct_answers_by_difficulty = {
+    "Em branco": "",
+    "Muito Fácil": "",
+    "Fácil": "",
+    "Médio": "",
+    "Difícil": "",
+    "Muito Difícil": "",
+}
+
+current_student_wrong_answers_by_difficulty = {
+    "Em branco": "",
+    "Muito Fácil": "",
+    "Fácil": "",
+    "Médio": "",
+    "Difícil": "",
+    "Muito Difícil": "",
+}
 # Faixa TRI do aluno
 # Concentração de alunos por Faixa TRI
-#============================PAINEL 02============================
+# ============================PAINEL 02============================
 # Nota em cada competência
 # Nota da redação
 # Colocação (redação)
 # Faixa Redação do aluno
 # Concentração de alunos por Faixa de redação
-#============================PAINEL 03============================
+# ============================PAINEL 03============================
 # Tabela com as colunas: Questão|Reposta Correta|Resposta Aluno|Nível (dificuldade)
-#======================================================================PAINEL 04======================================================================
+# ======================================================================PAINEL 04======================================================================
 # Tabela para o simulado anterior com as colunas: Aluno | Total de Acertos | TRI | Ranking TRI | Faixa TRI | Redação | Ranking Redação | Faixa Redação
 # Tabela para o simulado atual com as colunas: Aluno | Total de Acertos | TRI | Ranking TRI | Faixa TRI | Redação | Ranking Redação | Faixa Redação
